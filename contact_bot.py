@@ -27,7 +27,7 @@ import threading
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 BOT_TOKEN  = "8729262563:AAFBIkaK9FDdk3xRKL6xA3uafVMHzhg2JWE"   # @BotFather se milega
-OWNER_ID   = 6224485571                     # Apna Telegram numeric ID dalo (apne bot ko /id bhejo)
+OWNER_ID   = "6224485571"                    # Apna Telegram numeric ID dalo (apne bot ko /id bhejo)
 BOT_NAME   = "Akaza contact Bot"                  # Bot ka naam
 OWNER_NAME = "Akaza"                        # Aapka naam (user ko dikhega)
 
