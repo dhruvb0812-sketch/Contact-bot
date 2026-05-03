@@ -16,8 +16,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8729262563:AAFBIkaK9FDdk3xRKL6xA3uafVMHzhg2JWE")
-YOUR_USER_ID = int(os.environ.get("YOUR_USER_ID", 6224485571))  # Your Telegram ID
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+YOUR_USER_ID = int(os.environ.get("YOUR_USER_ID", 1234567890))  # Your Telegram ID
 PORT = int(os.environ.get("PORT", 8080))
 
 # Flask app for uptime monitoring
